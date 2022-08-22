@@ -1,0 +1,46 @@
+body
+{
+    background-color:pink;
+}
+h2
+{
+    color: darkorange;
+}
+
+h4
+{
+    color:orangered;
+}
+
+button 
+{
+    background-color: grey;
+    color: white;
+    padding: 0.7%;
+    border-radius: 25%;
+    margin: 0.4%;
+}
+
+button:hover
+{
+    background-color: lime;
+}
+
+.question-text
+{
+    color:green;
+}
+.score-section
+{
+    color:lime;
+}
+
+.app
+{
+    border: solid lime 2px;
+    width: 350px;
+    height:300px;
+    border-radius: 25px;
+    background-color:lightcyan;
+    
+}
